@@ -1,0 +1,180 @@
+{
+    "data": [
+        {"ourQualities" : [
+            {
+                "id": 1,
+                "image": "./quality_food.svg",
+                "title": "QUALITY FOOD",
+                "description": "At Bharani's Delight, we believe that great food starts with quality. We use only the freshest ingredients, sourced locally, to ensure every dish is prepared to perfection." 
+            },
+            {
+                "id": 2,
+                "image": "./super_taste.svg",
+                "title": "SUPER TASTE",
+                "description": "Indulge in the super taste of authentic South Indian cuisine. Each dish is crafted with care and passion, delivering flavors that will delight your senses." 
+            }
+        ],
+        "dishes": [
+            { "id": 1, "title": "Idly", "category": "Breakfast - Veg" },
+            { "id": 2, "title": "Kichidi", "category": "Breakfast - Veg" },
+            { "id": 3, "title": "Ghee Pongal", "category": "Breakfast - Veg" },
+            { "id": 4, "title": "Poori", "category": "Breakfast - Veg" },
+            { "id": 5, "title": "Vada", "category": "Breakfast - Veg" },
+            { "id": 6, "title": "Chicken curry", "category": "Breakfast - Non-Veg" },
+            { "id": 7, "title": "Chicken Fry", "category": "Breakfast - Non-Veg" },
+            { "id": 8, "title": "Chicken Kari Dosa", "category": "Breakfast - Non-Veg" },
+            { "id": 9, "title": "Mini Tiffen", "category": "Breakfast - Veg" },
+            { "id": 10, "title": "Plain Roast", "category": "Dosa Variety" },
+            { "id": 11, "title": "Masala Roast", "category": "Dosa Variety" },
+            { "id": 12, "title": "Onion Roast", "category": "Dosa Variety" },
+            { "id": 13, "title": "Kal Dosa", "category": "Dosa Variety" },
+            { "id": 14, "title": "Mushroom Stuffed", "category": "Dosa Variety" },
+            { "id": 15, "title": "Paneer Stuffed", "category": "Dosa Variety" },
+            { "id": 16, "title": "Ghee Roast", "category": "Dosa Variety" },
+            { "id": 17, "title": "Ghee Karam", "category": "Dosa Variety" },
+            { "id": 18, "title": "Podi Dosa", "category": "Dosa Variety" },
+            { "id": 19, "title": "Mariappa Coffee", "category": "Beverages" },
+            { "id": 20, "title": "Premium Coffee", "category": "Beverages" },
+            { "id": 21, "title": "Tea", "category": "Beverages" },
+            { "id": 22, "title": "Ginger Tea", "category": "Beverages" },
+            { "id": 23, "title": "Masala Tea", "category": "Beverages" },
+            { "id": 24, "title": "Lemon Tea", "category": "Beverages" },
+            { "id": 25, "title": "Green Tea", "category": "Beverages" },
+            { "id": 26, "title": "Mini Meals", "category": "Lunch - Veg" },
+            { "id": 27, "title": "Full Meals", "category": "Lunch - Veg" },
+            { "id": 28, "title": "Curd Rice", "category": "Lunch - Veg" },
+            { "id": 29, "title": "Variety Rice", "category": "Lunch - Veg" },
+            { "id": 30, "title": "Jeera Rice", "category": "Lunch - Veg" },
+            { "id": 31, "title": "Veg Biryani", "category": "Lunch - Veg" },
+            { "id": 32, "title": "Mini Meals", "category": "Lunch - Non-Veg" },
+            { "id": 33, "title": "Full Meals", "category": "Lunch - Non-Veg" },
+            { "id": 34, "title": "Non-Veg Virundhu", "category": "Lunch - Non-Veg" },
+            { "id": 35, "title": "Chicken Biryani", "category": "Lunch - Non-Veg" },
+            { "id": 36, "title": "Chicken Fry Biryani", "category": "Lunch - Non-Veg" },
+            { "id": 37, "title": "Chicken 65 Biryani", "category": "Lunch - Non-Veg" },
+            { "id": 38, "title": "Mutton Fry Biryani", "category": "Lunch - Non-Veg" },
+            { "id": 39, "title": "Biryani Rice", "category": "Lunch - Non-Veg" },
+            { "id": 40, "title": "Butter Naan", "category": "Dinner & Evening Special - Veg" },
+            { "id": 41, "title": "Garlic Naan", "category": "Dinner & Evening Special - Veg" },
+            { "id": 42, "title": "Masala Kulcha", "category": "Dinner & Evening Special - Veg" },
+            { "id": 43, "title": "Chapati", "category": "Dinner & Evening Special - Veg" },
+            { "id": 44, "title": "Parotta", "category": "Dinner & Evening Special - Veg" },
+            { "id": 45, "title": "Chilli Porata", "category": "Dinner & Evening Special - Veg" },
+            { "id": 46, "title": "Gobi Manchurian", "category": "Dinner & Evening Special - Veg" },
+            { "id": 47, "title": "Mushroom Manchurian", "category": "Dinner & Evening Special - Veg" },
+            { "id": 48, "title": "Paneer Manchurian", "category": "Dinner & Evening Special - Veg" },
+            { "id": 49, "title": "Chilli Paneer", "category": "Dinner & Evening Special - Veg" },
+            { "id": 50, "title": "Paneer65", "category": "Dinner & Evening Special - Veg" },
+            { "id": 51, "title": "Mushroom65", "category": "Dinner & Evening Special - Veg" },
+            { "id": 52, "title": "Gobi65", "category": "Dinner & Evening Special - Veg" },
+            { "id": 53, "title": "Fish65", "category": "Dinner & Evening Special - Non-Veg" },
+            { "id": 54, "title": "Vanjaram Fish Fry", "category": "Dinner & Evening Special - Non-Veg" },
+            { "id": 55, "title": "Chicken65", "category": "Dinner & Evening Special - Non-Veg" },
+            { "id": 56, "title": "Chicken Manchurian", "category": "Dinner & Evening Special - Non-Veg" },
+            { "id": 57, "title": "Chicken Pepper Fry", "category": "Dinner & Evening Special - Non-Veg" },
+            { "id": 58, "title": "Chicken Fry", "category": "Dinner & Evening Special - Non-Veg" },
+            { "id": 59, "title": "Mutton Chukka", "category": "Dinner & Evening Special - Non-Veg" },
+            { "id": 60, "title": "Mutton Pepper Fry", "category": "Dinner & Evening Special - Non-Veg" },
+            { "id": 61, "title": "Classic Veg Fried Rice", "category": "Fried Rice - Veg" },
+            { "id": 62, "title": "Double Veg Fried Rice", "category": "Fried Rice - Veg" },
+            { "id": 63, "title": "Paneer Fried Rice", "category": "Fried Rice - Veg" },
+            { "id": 64, "title": "Mushroom Fried Rice", "category": "Fried Rice - Veg" },
+            { "id": 65, "title": "Mixed Veg Fried Rice", "category": "Fried Rice - Veg" },
+            { "id": 66, "title": "Classic Egg Fried Rice", "category": "Fried Rice - Non-Veg" },
+            { "id": 67, "title": "Double Egg Fried Rice", "category": "Fried Rice - Non-Veg" },
+            { "id": 68, "title": "Classic Chicken Fried Rice", "category": "Fried Rice - Non-Veg" },
+            { "id": 69, "title": "Chicken Schezwan Fried Rice", "category": "Fried Rice - Non-Veg" },
+            { "id": 70, "title": "Chicken Double Egg Fried Rice", "category": "Fried Rice - Non-Veg" },
+            { "id": 71, "title": "Classic Veg Noodles", "category": "Noodles - Veg" },
+            { "id": 72, "title": "Double Veg Noodles", "category": "Noodles - Veg" },
+            { "id": 73, "title": "Paneer Noodles", "category": "Noodles - Veg" },
+            { "id": 74, "title": "Mushroom Noodles", "category": "Noodles - Veg" },
+            { "id": 75, "title": "Mixed Veg Noodles", "category": "Noodles - Veg" },
+            { "id": 76, "title": "Classic Egg Noodles", "category": "Noodles - Non-Veg" },
+            { "id": 77, "title": "Egg Schezwan Noodles", "category": "Noodles - Non-Veg" },
+            { "id": 78, "title": "Classic Chicken Noodles", "category": "Noodles - Non-Veg" },
+            { "id": 79, "title": "Chicken Manchurian Noodles", "category": "Noodles - Non-Veg" },
+            { "id": 80, "title": "Chicken Schezwan Noodles", "category": "Noodles - Non-Veg" },
+            { "id": 81, "title": "American Choupsey", "category": "Noodles - Veg" },
+            { "id": 82, "title": "American Choupsey", "category": "Noodles - Non-Veg" }
+        ],
+        "team": [
+            {
+                "id": 1,
+                "image": "./team_member_1.png",
+                "name": "JOHNATHAN TYLER",
+                "designation": "Founder & Head Chef"
+            },
+            {
+                "id": 2,
+                "image": "./team_member_2.png",
+                "name": "WADE WARREN",
+                "designation": "Sous Chef"
+            },
+            {
+                "id": 3,
+                "image": "./team_member_3.png",
+                "name": "JHON DOE",
+                "designation": "Fast Food Chef"
+            },
+            {
+                "id": 4,
+                "image": "./team_member_4.png",
+                "name": "ALEX COAL",
+                "designation": "Senior Chef"
+            }
+        ],
+        
+        "who_we_are": [
+            {
+                "id": 1,
+                "number": "14",
+                "title": "Restaurants"
+            },
+            {
+                "id": 2,
+                "number": "20",
+                "title": "Chef In Kitchen"
+            },
+            {
+                "id": 3,
+                "number": "08",
+                "title": "Years Of Experience"
+            },
+            {
+                "id": 4,
+                "number": "200",
+                "title": "Food Dishes"
+            }
+        ],
+        "navbarLinks": [
+            {
+                "id": 1,
+                "title": "HOME",
+                "link": "heroSection"
+            },
+            {
+                "id": 2,
+                "title": "ABOUT US",
+                "link": "about"
+            },
+            {
+                "id": 3,
+                "title": "SERVICES",
+                "link": "qualities"
+            },
+            {
+                "id": 4,
+                "title": "LOCATION",
+                "link": "location"
+            },
+            {
+                "id": 5,
+                "title": "RESERVATION",
+                "link": "reservation"
+            }
+        ]
+    
+    } 
+    ]
+}
